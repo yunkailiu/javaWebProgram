@@ -14,6 +14,7 @@ demo1：企业门户网站
 - 当页面上存在公共区域时，可以另起一个新的jsp文件，直接用标签开始构造即可，无需完整结构，最后使用`<%@ include file="xxx.jsp" %>`引入即可。
 - css样式文件完全可以写在新文件中，使用`<link href="css/xxx.css" rel="stylesheet" type="text/css" media="all">`引入即可。
 - js文件也可以写在新文件中，使用`<script src="js/xxx.js"></script>`引入即可。
+- jsp文件中使用java语言在<%%>插入即可。
 
 
 
