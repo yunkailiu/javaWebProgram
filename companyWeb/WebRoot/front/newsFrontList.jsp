@@ -6,7 +6,6 @@
 			+ request.getServerName() + ":" + request.getServerPort()
 			+ path;
 %>
-
 <!DOCTYPE html>
 <html>
 	<head>

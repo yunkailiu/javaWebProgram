@@ -6,7 +6,6 @@
 			+ request.getServerName() + ":" + request.getServerPort()
 			+ path;
 %>
-
 <!DOCTYPE html>
 <html>
 	<head>
@@ -63,7 +62,6 @@
 											out.println(sOK);
 										}
 								%>
-								
 
 							</div>
 						</div>
