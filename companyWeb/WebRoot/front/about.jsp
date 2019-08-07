@@ -29,7 +29,6 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 		<!--//banner-->
 		<!--企业简介-->
 		<div class="container">
-
 			<div class="left">
 				<div class="menu">
 					<div class="menu_title">
@@ -51,8 +50,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 
 			<div class="right">
 				<div class="location">
-					<span>当前位置：<a
-						href="#">企业简介</a>
+					<span>当前位置：<a href="#">企业简介</a>
 					</span>
 					<div class="brief" id="b">
 						企业概况

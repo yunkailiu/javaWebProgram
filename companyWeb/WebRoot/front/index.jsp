@@ -85,7 +85,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   		Copyright 2016 明日科技有限公司 All Rights.
   		<br>
   		<a href="http://www.mingrisoft.com">吉林省明日科技有限公司</a> 技术支持
-  		<a href="<%=basePath%>/admin/login.jsp">后台</a>
+  		<a href="<%=basePath%>admin/login.jsp">后台</a>
   		<br> 吉ICP备10002740号-2 吉公网安备22010202000132号
   	</div>
   	<div class="clear"></div>
